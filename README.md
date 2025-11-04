@@ -184,6 +184,7 @@ Repos
 * https://greasyfork.org/users/28829 - Rokoucha
 * https://github.com/garylaski/userscripts - Import scripts for SoundCloud, Netease
 * https://gitlab.com/SuperSaltyGamer/ame - "Various userscripts for the music hoarding community"
+* https://github.com/chaban-mb/userscripts - Various scripts to enhance MusicBrainz or external tools, automate workflows and improved versions of other scripts
 
 Single scripts
 * [Discogs: Release day of the week](https://userscripts-mirror.org/scripts/show/164624)
