@@ -228,16 +228,18 @@ _(personally using Image Max URL with Imagus and Image Picka_ ~~([custom URL rul
 ### [Web browser extensions](https://en.wikipedia.org/wiki/Browser_extension)
 _Various extensions that can make not only editing life better :)_
 * [Imagus](https://www.reddit.com/r/imagus/) (for [Chromium](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) and [Firefox](https://addons.mozilla.org/firefox/addon/imagus/))
-* [Discogs Enhancer](https://www.discogs-enhancer.com/) (Chromium, [help needed for Firefox port](https://github.com/salcido/discogs-enhancer/issues/105))
+* [Discogs Enhancer](https://www.discogs-enhancer.com/)
 * [Copy Tables](https://merribithouse.net/copytables/) (Chromium)
 * [Display #Anchors](https://github.com/Rob--W/display-anchors)
-* [Link Clump](https://github.com/benblack86/linkclump) (Chromium)
+* ~~[Link Clump](https://github.com/benblack86/linkclump) (Chromium)~~
+  * MV3 Fork: [Linkclump Plus](https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm)
   * alternative to [Linky Square](#userscripts)
 * Preview links on hover
-   * [GPeeker](https://chrome.google.com/webstore/detail/gpeeker/emmkcadnghjejdekddjhdhmhbojcchod)
+  * [GPeeker](https://chrome.google.com/webstore/detail/gpeeker/emmkcadnghjejdekddjhdhmhbojcchod)
   * [Link Previewer](https://chrome.google.com/webstore/detail/link-previewer/hhnejjlimgamhpolpjnjdkdcoclldhli)
-  * [URL render](https://chrome.google.com/webstore/detail/flhclpkhoiajoikkabbfbinnjapaflog)
+  * ~~[URL render](https://chrome.google.com/webstore/detail/flhclpkhoiajoikkabbfbinnjapaflog)~~
 * [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb/) (Chromium) / [Rich URL](https://richurl.madewithlove.in.ua/) (Chromium) / [Copy Selected Tabs to Clipboard](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-tabs-to-clipboar/) (Firefox)
+* [Link Extractor](https://link-extractor.cssnr.com/)
 * [Buster](https://github.com/dessant/buster) (automatic captcha solver)
   * [Private Access Tokens](https://datatracker.ietf.org/doc/draft-private-access-tokens/)
 * [Image Picka](https://github.com/eight04/image-picka) (batch downloading images off any site)
@@ -253,7 +255,7 @@ _Various extensions that can make not only editing life better :)_
   * See also alternative [userscript](#userscripts)
 * [Perceptual image analysis](http://tools.quadet.com/)
 * [SponsorBlock](https://sponsor.ajay.app/)
-* [Bypass Paywalls Clean](https://gitlab.com/magnolia1234)
+* [Bypass Paywalls Clean](https://en.wikipedia.org/wiki/Bypass_Paywalls_Clean)
 * [TrackDen](https://chrome.google.com/webstore/detail/trackden/hnibfnjnbfdjgoogpoikiogjjigjcaia)
 * [Odesli for Bandcamp](https://chrome.google.com/webstore/detail/odesli-for-bandcamp/ikgagbiblpfihbccekppfbpmjekingcm)
 
