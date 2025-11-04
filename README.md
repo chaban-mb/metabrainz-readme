@@ -36,6 +36,10 @@ Also read:
 * [New resource for looking up UPCs and ISRCs at Sound Exchange](https://community.metabrainz.org/t/142121)
 * [World Radio History](https://worldradiohistory.com/) - lots of scanned (and indexed!) music magazines, e.g. Music Week with listings of new albums
     * [David Gleason Preserves Broadcast History, Tells of His Own](https://blogs.telosalliance.com/american-radio-history-web-site)
+ 
+### Tracking and discovering new music 
+
+See [Keep track of new releases/artists](docs/Keep-track-of-new-releases-artists.md)
 
 ### Cover art sources
 _This list deliberately omits [other databases](https://wiki.musicbrainz.org/Other_Databases) ([Whitelist](https://wiki.musicbrainz.org/Other_Databases_Relationship_Type/Whitelist))_
