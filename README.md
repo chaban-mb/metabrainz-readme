@@ -237,6 +237,9 @@ _Various extensions that can make not only editing life better :)_
 * Preview links on hover
   * [GPeeker](https://chrome.google.com/webstore/detail/gpeeker/emmkcadnghjejdekddjhdhmhbojcchod)
   * [Link Previewer](https://chrome.google.com/webstore/detail/link-previewer/hhnejjlimgamhpolpjnjdkdcoclldhli)
+  * [Prevue Popup](https://chromewebstore.google.com/detail/prevue-popup/afencccmfcofdgnigbenkpplpanigajd)
+  * [Search & Link Previews](https://chromewebstore.google.com/detail/search-link-preview/mmmfofondapflhgbdidadejnechhjocm)
+  * [Link Previewer](https://chromewebstore.google.com/detail/link-previewer/hhnejjlimgamhpolpjnjdkdcoclldhli)
   * ~~[URL render](https://chrome.google.com/webstore/detail/flhclpkhoiajoikkabbfbinnjapaflog)~~
 * [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb/) (Chromium) / [Rich URL](https://richurl.madewithlove.in.ua/) (Chromium) / [Copy Selected Tabs to Clipboard](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-tabs-to-clipboar/) (Firefox)
 * [Link Extractor](https://link-extractor.cssnr.com/)
