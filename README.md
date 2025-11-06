@@ -125,28 +125,8 @@ See [wiki](https://musicbrainz.org/doc/ISRC#Resources)
 See [wiki](https://wiki.musicbrainz.org/External_Resources)
 
 ### [Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet)
-See [wiki](https://wiki.musicbrainz.org/External_Resources#Bookmarklets) and [forum threads tagged with `bookmarklets`](https://community.metabrainz.org/tag/bookmarklets)
-
-My own bookmarklets: https://wiki.musicbrainz.org/User:Chaban
-
-Single bookmarklets by others 
-* [Art: Script to fill comment from uploaded filename?](https://community.metabrainz.org/t/288403/2)
-```javascript
- javascript:(function(){var start=prompt("Enter Start-#","");var commtext=prompt("Enter optional comment text","");var x=document.querySelectorAll("input.comment");var i;for (i=0; i < x.length; i++) {x[i].value=commtext+[Number(start)+Number(i)];var event=document.createEvent("HTMLEvents");event.initEvent("change", true, true);x[i].dispatchEvent(event);}})();
-```
-* [Script to set all types of all ready-to-upload pictures?](https://community.metabrainz.org/t/69868/12)
-```javascript
- javascript: var val=prompt("# of Checkbox to activate or deactivate \n(Front=1, Back=2, Booklet=3...)",""); [].forEach.call(document.querySelectorAll('input[value="'+val+'"]'), function(el) {el.click();});
-```
-* [Typewriter apostrophe to proper Unicode apostroph](https://community.metabrainz.org/t/322250/9)
-   _The "[Guess Unicode Punctuation](https://github.com/kellnerd/musicbrainz-bookmarklets#guess-unicode-punctuation)" bookmarklet/userscript by kellnerd is probably a better choice and much more powerful_
-```javascript
-javascript:(function(){$('.track-name').each(function(index,element){$(this).val(this.value.replace(/'/g,"\u2019")).change();})}());
-```
-* [Toggle booklet type on cover art upload page](https://community.metabrainz.org/t/69868/11)
-```javascript
-javascript:[].forEach.call(document.querySelectorAll('input[value=%223%22]'),%20function(el)%20{el.click();});
-```
+* [Bookmarklets list in the wiki](https://wiki.musicbrainz.org/External_Resources#Bookmarklets) 
+* [Forum threads tagged with `bookmarklets`](https://community.metabrainz.org/tag/bookmarklets)
 
 #### General
 
@@ -186,12 +166,6 @@ Repos
 * https://gitlab.com/SuperSaltyGamer/ame - "Various userscripts for the music hoarding community"
 * https://github.com/chaban-mb/userscripts - Various scripts to enhance MusicBrainz or external tools, automate workflows and improved versions of other scripts
 
-Single scripts
-* [Discogs: Release day of the week](https://userscripts-mirror.org/scripts/show/164624)
-* [MBS-3918](https://tickets.metabrainz.org/browse/MBS-3918): [Mass approving script](https://rentry.co/ze4ow/raw) (based on [fast cancel edits](https://github.com/murdos/musicbrainz-userscripts/blob/master/fast-cancel-edits.user.js) script by Michael Wiencek) / [Approve directly from the edit search page](http://mb.lmfao.org.uk/userscripts/ngs-approve.user.js) by nikki
- _Note: For the approve script by nikki to work you'll need to adjust the `@include` rule to use `https`_
-    * Also implemented in power vote userscript by jesus2099
-
 #### General
 _Various userscripts that can make not only editing life better :)_
 
@@ -211,7 +185,6 @@ quickly change the search engine with the same search terms
 
 #### Images
 _Sick of websites showing postage stamp sized images only? Try one of these._
-_(personally using Image Max URL with Imagus and Image Picka_ ~~([custom URL rules for Discogs](https://rentry.co/e6wwk)))~~
 
 * [Image Max URL](https://github.com/qsniyg/maxurl) (**recommended**, own rules can't be added (i.e. code has to be edited directly) but its developer usually speedily implements new ones on request)
 * ~~[Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404)~~ (deprecated, taken down)
