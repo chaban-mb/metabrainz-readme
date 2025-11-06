@@ -25,8 +25,6 @@ Also read:
 * [Voting suggestions](https://musicbrainz.org/vote)
 * [Custom edit search queries](https://musicbrainz.org/collection/ece5ad67-e46a-4936-b466-693031a719e0)
 
-~~[Edit notes template for voting](https://rentry.co/mb-voting-notes-template)~~
-
 ### Editing
 * [Reports](https://musicbrainz.org/reports)
 * [Custom reports](https://musicbrainz.org/collection/683a13bf-926f-4ee6-a2fb-b08fdc534563)
