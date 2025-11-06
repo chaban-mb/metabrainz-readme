@@ -393,7 +393,7 @@ English
  German
 * [Duden](https://www.duden.de/)
 * [DWDS: Digitales Wörterbuch der deutschen Sprache](https://www.dwds.de/)
-* [Variantengrammatik des Standarddeutschen](http://www.variantengrammatik.net/)
+* [Variantengrammatik des Standarddeutschen](https://mediawiki.ids-mannheim.de/VarGra/index.php/Start)
 
  Japanese-English
 * [Tangorin](https://tangorin.com/)
