@@ -112,7 +112,7 @@ SEA (Southeast Asia)
 * [User:Yurim/Punctuation_and_Special_Characters](https://wiki.musicbrainz.org/User:Yurim/Punctuation_and_Special_Characters)
 * [User:Jacobbrett/English_Punctuation_Guide](https://wiki.musicbrainz.org/User:Jacobbrett/English_Punctuation_Guide)
 * [User:Hcm/注意すべき約物](https://wiki.musicbrainz.org/index.php?title=User:Hcm/%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E7%B4%84%E7%89%A9&oldid=67676)
-* [Japanese release dates](https://reference.discogs.com/wiki/Japanese-release-dates)
+* [Japanese release dates](https://web.archive.org/web/20220512234600/https://reference.discogs.com/wiki/japanese-release-dates)
 
 ## Tools
 ### [Release import](https://wiki.musicbrainz.org/Development/Release_Editor_Seeding)
