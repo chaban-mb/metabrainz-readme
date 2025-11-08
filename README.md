@@ -415,3 +415,4 @@ English
 * [Ripped](https://ripped.guide/)
 * [Firehawk52](https://rentry.org/firehawk52)
 * [Wotaku](https://wotaku.wiki/)
+* [Champagne Wiki](https://champagne.pages.dev/)
