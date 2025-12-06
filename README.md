@@ -220,7 +220,7 @@ _Various extensions that can make not only editing life better :)_
 * [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb/) (Chromium) / [Rich URL](https://richurl.madewithlove.in.ua/) (Chromium) / [Copy Selected Tabs to Clipboard](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-tabs-to-clipboar/) (Firefox)
 * [Link Extractor](https://link-extractor.cssnr.com/)
 * [Buster](https://github.com/dessant/buster) (automatic captcha solver)
-  * [Private Access Tokens](https://datatracker.ietf.org/doc/draft-private-access-tokens/)
+  * [Privacy Pass](https://datatracker.ietf.org/wg/privacypass/about/)
 * [Image Picka](https://github.com/eight04/image-picka) (batch downloading images off any site)
 * [Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) / [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)
 * [weAutoPagerize](https://addons.mozilla.org/firefox/addon/weautopagerize/) (Firefox) / [autopagerize fork by tophf](https://github.com/tophf/autopagerize) (Chromium) / [Infy Scroll](https://github.com/roysix/infy-scroll) (Firefox and Chromium)
