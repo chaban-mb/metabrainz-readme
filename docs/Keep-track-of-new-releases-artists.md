@@ -15,6 +15,8 @@ Download/streaming services
 * https://mora.jp/newreleasepage/all
 * Bandcamp follow
   * [ReleaseFeed](https://codeberg.org/elomatreb/releasefeed)
+* Beatport follow
+* Volumo follow
 * [MusicButler](https://www.musicbutler.io/)
   * https://www.reddit.com/r/musichoarder/comments/skv0k3/music_butler_update_via_email/
 * Record Bird (RIP)
