@@ -195,12 +195,13 @@ Repos
 * https://github.com/JensBee/userscripts - unmaintained
 * https://github.com/DinoRTX/musicbrainz-userscripts - adds domain favicon icons to external URLs in dark mode
 * https://github.com/karpuzikov/userscripts - various tools and userscripts
-* Gists:
-  * https://gist.github.com/mwiencek/99b71a20e523fc7dfc97864b4eb6cbc3 - move track relationships to release level
-  * https://gist.github.com/cg505/893e62e18e2224c717ac90cb1b78df57 - batch group relationship edits
-  * https://gist.github.com/defvs/b9f43a6549b22430ccc46b5625e6b8be - export MB release collection to CSV
-  * https://gist.github.com/jesseweinstein/368bddf748f4faf44b5775addf7f3db0 - Paste-A-Date! date formatting helper
-  * https://gist.github.com/opatel99/3537237628abce4da2a3 - import events from Facebook
+
+Gists
+* https://gist.github.com/mwiencek/99b71a20e523fc7dfc97864b4eb6cbc3 - move track relationships to release level
+* https://gist.github.com/cg505/893e62e18e2224c717ac90cb1b78df57 - batch group relationship edits
+* https://gist.github.com/defvs/b9f43a6549b22430ccc46b5625e6b8be - export MB release collection to CSV
+* https://gist.github.com/jesseweinstein/368bddf748f4faf44b5775addf7f3db0 - Paste-A-Date! date formatting helper
+* https://gist.github.com/opatel99/3537237628abce4da2a3 - import events from Facebook
 
 #### General
 _Various userscripts that can make not only editing life better :)_
