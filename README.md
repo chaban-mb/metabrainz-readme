@@ -125,6 +125,7 @@ See [wiki](https://wiki.musicbrainz.org/External_Resources)
 ### [Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet)
 * [Bookmarklets list in the wiki](https://wiki.musicbrainz.org/External_Resources#Bookmarklets) 
 * [Forum threads tagged with `bookmarklets`](https://community.metabrainz.org/tag/bookmarklets)
+* [chaban's MusicBrainz Bookmarklets](https://github.com/chaban-mb/bookmarklets)
 
 #### General
 
@@ -139,6 +140,7 @@ _Without them editing (and voting) is a PITA_
 * [Userscripts guide on the MusicBrainz Wiki](https://wiki.musicbrainz.org/Guides/Userscripts)
 * [Forum threads tagged with `userscripts`](https://community.metabrainz.org/tags/userscripts)
 * ~~[Userscripts list](https://wiki.musicbrainz.org/User:Colbydray/UserscriptList)~~ by [Colbydray](https://wiki.musicbrainz.org/User:Colbydray) (incorporated into main namespace)
+* [chaban's Starred MusicBrainz Repositories](https://github.com/stars/chaban-mb/lists/musicbrainz)
 
 Repos
 * https://github.com/jesus2099/konami-command - many scripts to improve UX, import data, automation incl. select 3rd-party sites
@@ -165,6 +167,40 @@ Repos
 * https://github.com/chaban-mb/userscripts - Various scripts to enhance MusicBrainz or external tools, automate workflows and improved versions of other scripts
 * https://github.com/majkinetor/musicbrainz-userscripts - Scripts that completely overhaul and improve the editing UI like the release editor or cover art editor
 * https://github.com/Lotheric/metabrainz-userscripts
+* https://github.com/kellnerd/musicbrainz-scripts - import from ARD, Bandcamp, Qobuz; link Harmony release actions; guess unicode punctuation
+* https://github.com/dvirtz/musicbrainz-scripts - import from ACUM and setlist.fm; event seeder and festival scaffold; medium merge/split
+* https://github.com/Aerozol/metabrainz-userscripts - quick join phrases, quick add medium, RYM link checker, hide relationship edits
+* https://github.com/zabe40/musicbrainz-userscripts - Bandcamp tag importer, taggregator, YouTube link canonicalizer, entity image helper
+* https://github.com/RustyNova016/MusicBrainz-UserScripts - import and status checkers for Beatport, Spotify, YouTube; listenbrainz search
+* https://github.com/afrocatmusic/userscripts - importers for Amazon Music, Traxsource, Volumo; Harmony and YouTube Music lookup
+* https://github.com/YoGo9/Scripts - batch add recording aliases, ACUM importer, UI buttons and quick edit utilities
+* https://github.com/ToadKing/musicbrainz-userscripts - CTDB lookup, relationship batch selector
+  * https://github.com/ToadKing/apple-music-barcode-isrc - Apple Music barcode & ISRC fetcher
+  * https://github.com/ToadKing/vgmdb-userscripts - VGMdb MusicBrainz links
+* https://github.com/Druidblack/MusicBrainz-UserScripts - Jellyfin/JellyBrainz and Yandex Music importers; TMDb & Mediux integration
+* https://github.com/phw/musicbrainz-magic-tagger-button - automatically enables the Picard tagger button
+* https://github.com/akeldama0435/musicbrainz - CDJapan & Ototoy importers, Harmony button integration
+* https://github.com/Lioncat6/MusicBrainz-UserScripts - Genius button, event editor search, SAMBL integration
+* https://github.com/mistwyrm/MusicBrainzScripts - Wolfgang's release importer, artist image helper
+* https://github.com/vzell/mb-userscripts - batch edit cover art, auto-select external link types, show all entity data
+* https://github.com/Ciwe0/Setmixer-MusicBrainz-Import-Script - import setlist and release data from Setmixer
+* https://github.com/Goram/MusicBrainz-Import-from-Amazon - import release data from Amazon
+* https://github.com/LeviOP/mb-date-helper - assist copying and pasting dates
+* https://github.com/Smeulf/userscripts - insert common Unicode characters and symbols
+* https://github.com/VB6Enjoyer/ma-mbz-integration - Integrate Metal-Archives with MusicBrainz API
+* https://github.com/Dr-Blank/userscripts - Spotify helper, YouTube Music importer, open in Harmony button
+* https://github.com/djkhjg/musicbrainz-userscripts - DJ mix tracklist parser, bulk copy work codes v2, Harmony: Beatport Recovery, Harmony provider lookups
+* https://github.com/peepincreepin/musicbrainz-userscripts - import from Bugs.co.kr, easy-add recording aliases
+* https://github.com/kellnerd/userstyles - dark theme for MusicBrainz
+* https://github.com/JensBee/userscripts - unmaintained
+* https://github.com/DinoRTX/musicbrainz-userscripts - adds domain favicon icons to external URLs in dark mode
+* https://github.com/karpuzikov/userscripts - various tools and userscripts
+* Gists:
+  * https://gist.github.com/mwiencek/99b71a20e523fc7dfc97864b4eb6cbc3 - move track relationships to release level
+  * https://gist.github.com/cg505/893e62e18e2224c717ac90cb1b78df57 - batch group relationship edits
+  * https://gist.github.com/defvs/b9f43a6549b22430ccc46b5625e6b8be - export MB release collection to CSV
+  * https://gist.github.com/jesseweinstein/368bddf748f4faf44b5775addf7f3db0 - Paste-A-Date! date formatting helper
+  * https://gist.github.com/opatel99/3537237628abce4da2a3 - import events from Facebook
 
 #### General
 _Various userscripts that can make not only editing life better :)_
